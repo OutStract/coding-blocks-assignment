@@ -61,7 +61,7 @@ span:nth-child(3) {
 }
 
 .button {
-    width: 50%;
+    width: 30px;
     background-color: rgb(172, 216, 244);
     border: none;
     border-radius: 6px;
